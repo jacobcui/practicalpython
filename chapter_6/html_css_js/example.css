@@ -1,0 +1,16 @@
+p {
+    color: blue;
+}
+.highlight {
+    background-color: yellow;
+}
+#header {
+    font-size: 24px;
+}
+body {
+    background-color: #f0f0f0;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}

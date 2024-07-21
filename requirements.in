@@ -1,0 +1,15 @@
+django
+Flask
+flask_rest
+flask_sqlalchemy
+sqlalchemy
+flask_restful
+names
+numpy
+matplotlib
+scikit-learn
+tensorflow
+pandas
+mlxtend 
+aiohttp
+lxml
