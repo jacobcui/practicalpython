@@ -13,3 +13,7 @@ pandas
 mlxtend 
 aiohttp
 lxml
+seaborn
+openpyxl
+geopandas
+folium
