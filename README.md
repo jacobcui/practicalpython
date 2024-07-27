@@ -10,3 +10,4 @@ Should you encounter any issues or require assistance, please do not hesitate to
 - [Python Installation](python_installation.md)
 - [Vscode and Jupyter notebook Installation](vscode_installation.md)
 - [Source codes in chapters](https://github.com/jacobcui/practicalpython)
+- [Getting the code for this book and install required packages](code_for_the_book.md)
